@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbhosale-lattice
 - 👀 I’m interested in Firmware, Automotives and Technology
-- 🌱 I’m currently learning VDK sims for Artemis firmware
+- 🌱 I’m currently learning Artemis firmware
 - 💞️ I’m looking to collaborate on Artemis Soc
 - 📫 How to reach me @kbhosale
 - 😄 Pronouns: kalpesh B
